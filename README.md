@@ -68,3 +68,59 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Expensify - An Expense Tracker
+
+Expensify is a web application developed using the MERN (MongoDB, Express, React, Node) stack, designed to manage daily expenses in a more efficient and organized manner. The primary goal of Expensify is to provide an easy-to-use platform to track various types of expenses, reducing manual calculations, and enabling users to monitor their expenditures effectively.
+
+## Project Overview
+
+The application enables users to maintain traceable records of their expenses. It simplifies the process of recording and categorizing expenses, assisting users in keeping track of their financial transactions and history.
+
+### Features
+
+- **Expense Management:** Users can input expense amounts, names, and categories for efficient tracking.
+- **Category-based Income-Expense Tracking:** The system allows for the categorization of expenses, providing a detailed overview of income and expenditures based on different categories.
+- **Record Keeping:** Expensify maintains records, expenses, and historical data, facilitating easy access to past financial information.
+
+## Technologies Used
+
+- **MongoDB:** NoSQL database used for storing application data.
+- **Express.js:** Backend web application framework for Node.js.
+- **React.js:** Frontend library for building user interfaces.
+- **Node.js:** JavaScript runtime environment used for server-side operations.
+- **HTML & CSS:** Standard markup and styling languages for structuring and designing the application.
+- **Tailwind CSS:** Utility-first CSS framework for styling the user interface.
+
+## Getting Started
+
+To run the application locally, follow these steps:
+
+1. Clone the repository to your local machine.
+2. Install dependencies using `npm install` in the root directory.
+3. Set up a MongoDB database and configure the connection in the application.
+4. Start the server using `npm start` in the root directory.
+5. Access the application through the provided URL.
+
+## Usage
+
+Upon running the application, users can:
+
+- Input their daily expenses, specifying the amount, name, and category.
+- View and manage recorded expenses and historical data.
+
+## Contributors
+
+- **[Your Name]**: Lead developer and contributor.
+- **[Additional Contributors]**: Mention any additional contributors or team members involved in the project.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
+
+## Acknowledgments
+
+- Include any acknowledgments, credits, or references to libraries, frameworks, or resources used during the development process.
+
+Feel free to contribute, report issues, or provide feedback. Your contributions are highly appreciated!
+
+
